@@ -3,8 +3,8 @@
 
 <div align="center">
   <a href="https://github.com/m4rcusml">
-    <img height="200em" src="https://github-readme-stats-ruby-one.vercel.app/api?username=m4rcusml&show_icons=true&theme=radical&custom_title=ML's+Github+Stats&count_private=true"/>
-    <img height="200em" src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=m4rcusml&theme=radical&custom_title=Linguagens+mais+usadas"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=m4rcusml&show_icons=true&theme=radical&custom_title=ML's+Github+Stats&count_private=true"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4rcusml&theme=radical&custom_title=Linguagens+mais+usadas"/>
   </a>
 </div>
 
