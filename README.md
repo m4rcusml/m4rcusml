@@ -1,4 +1,4 @@
-### Oi gente, eu sou o ML, eu estou atualmente no ensino médio e aprendendo programação😮
+### Oi fml, eu sou o tal do Pisca e estou atualmente no ensino médio e aprendendo programação😮
 ---
 
 <div align="center">
