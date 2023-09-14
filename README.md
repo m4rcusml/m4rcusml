@@ -1,4 +1,4 @@
-### Oi fml, eu sou o tal do Pisca e estou atualmente no ensino médio e aprendendo programação😮
+### Oi fml, meu nome é Marcus e estou atualmente no ensino médio aprendendo programação😮
 ---
 
 <div align="center">
