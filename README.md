@@ -1,4 +1,4 @@
-### Oi fml, meu nome é Marcus e estou atualmente no ensino médio aprendendo programação😮
+### Olá! Meu nome é Marcus e estou atualmente no ensino médio aprendendo programação 😮
 ---
 
 <div align="center">
