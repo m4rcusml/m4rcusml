@@ -1,8 +1,10 @@
-<h2 align="left">Oi 👋! Meu nome é Marcus e estou cursando Engenharia de Software no Inteli</h2>
+<h2 align="left">Oi 👋! Meu nome é Marcus, tenho 18 anos e estou estudando programação</h2>
 
 ###
 
-<p align="left">Hello World!!</p>
+<p align="left">
+  Oi, sou o Marcus e aprendi a programar fazendo curso técnico de informática na Fundação Matias Machline e cheguei a desenvolver um app como projeto de conclusão de curso, o Nexus-skill, uma plataforma de ensino com conceitos de gameficação, cursos e fórum aplicados.
+</p>
 
 ###
 
