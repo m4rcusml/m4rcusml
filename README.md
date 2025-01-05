@@ -1,6 +1,6 @@
 <h2 align="left">Oi 👋! Meu nome é Marcus, tenho 18 anos e estou estudando programação</h2>
 
-###
+### Sobre
 
 <p align="left">
   Oi, sou o Marcus e aprendi a programar fazendo curso técnico de informática na Fundação Matias Machline. Cheguei a desenvolver um app como projeto de conclusão de curso, o Nexus-skill, uma plataforma de ensino com conceitos de gameficação, cursos e fórum aplicados.
