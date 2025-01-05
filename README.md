@@ -3,7 +3,7 @@
 ###
 
 <p align="left">
-  Oi, sou o Marcus e aprendi a programar fazendo curso técnico de informática na Fundação Matias Machline e cheguei a desenvolver um app como projeto de conclusão de curso, o Nexus-skill, uma plataforma de ensino com conceitos de gameficação, cursos e fórum aplicados.
+  Oi, sou o Marcus e aprendi a programar fazendo curso técnico de informática na Fundação Matias Machline. Cheguei a desenvolver um app como projeto de conclusão de curso, o Nexus-skill, uma plataforma de ensino com conceitos de gameficação, cursos e fórum aplicados.
 </p>
 
 ###
@@ -15,9 +15,9 @@
 
 ###
 
-<img align="right" height="150" src="https://pbs.twimg.com/media/GfqkyIPWEAE8oMB?format=jpg&name=medium"  />
+<img align="right" height="180" src="https://pbs.twimg.com/media/GfqkyIPWEAE8oMB?format=jpg&name=medium"  />
 
-###
+### Tecnologias
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -37,7 +37,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
 </div>
 
-###
+### Redes sociais
 
 <div align="left">
   <a href="https://www.instagram.com/marcusf.dev/" target="_blank">
@@ -52,6 +52,8 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/m4rcusml/m4rcusml/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/m4rcusml/m4rcusml/output/snake.svg" alt="Snake animation" />
+</div>
 
 ###
