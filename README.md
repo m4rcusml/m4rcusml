@@ -2,7 +2,7 @@
 
 ### Resumo
 
-Oi, sou o Marcus e aprendi a programar fazendo `curso técnico de informática` na [Fundação Matias Machline](https://www.fundacaomatiasmachline.org.br/) e hoje faço faculdade no [Inteli](https://www.inteli.edu.br/). Cheguei a desenvolver um app como projeto de conclusão de curso, o Nexus-skill, uma plataforma de ensino com conceitos de gameficação, cursos e fórum aplicados.
+Oi, sou o Marcus e aprendi a programar fazendo `curso técnico de informática` na <a href="https://www.fundacaomatiasmachline.org.br/" target="_blank">Fundação Matias Machline</a> e hoje faço faculdade no <a href="https://www.inteli.edu.br/" target="_blank">Inteli</a>. Desenvolvi um app como projeto de conclusão de curso, o Nexus-skill, uma plataforma de ensino com conceitos de gameficação, cursos e fórum aplicados.
 
 ### Sobre
 * Tenho 18 anos.
@@ -11,8 +11,8 @@ Oi, sou o Marcus e aprendi a programar fazendo `curso técnico de informática` 
 * Gosto de jogar vôlei, minecraft e clash royale.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=m4rcusml&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=m4rcusml&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=m4rcusml&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=pt-br&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=m4rcusml&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=false" height="150" alt="languages graph" />
 </div>
 
 ### Meu buddy
