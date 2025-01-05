@@ -1,19 +1,23 @@
-<h2 align="left">Oi 👋! Meu nome é Marcus, tenho 18 anos e estou estudando programação</h2>
+## Oi 👋! Meu nome é Marcus, tudo bem?
+
+### Resumo
+
+Oi, sou o Marcus e aprendi a programar fazendo `curso técnico de informática` na [Fundação Matias Machline](https://www.fundacaomatiasmachline.org.br/) e hoje faço faculdade no [Inteli](https://www.inteli.edu.br/). Cheguei a desenvolver um app como projeto de conclusão de curso, o Nexus-skill, uma plataforma de ensino com conceitos de gameficação, cursos e fórum aplicados.
 
 ### Sobre
-
-<p align="left">
-  Oi, sou o Marcus e aprendi a programar fazendo curso técnico de informática na Fundação Matias Machline. Cheguei a desenvolver um app como projeto de conclusão de curso, o Nexus-skill, uma plataforma de ensino com conceitos de gameficação, cursos e fórum aplicados.
-</p>
-
-###
+* Tenho 18 anos.
+* Sei fazer sites e apps complexos.
+* Estou cursando `Engenharia de Software` no Inteli.
+* Gosto de jogar vôlei, minecraft e clash royale.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=m4rcusml&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=m4rcusml&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
+### Meu buddy
+
+Estou iniciando minha jornada no Inteli com meu buddy [Daniel Cunha](https://youtube.com/)
 
 <img align="right" height="180" src="https://pbs.twimg.com/media/GfqkyIPWEAE8oMB?format=jpg&name=medium"  />
 
