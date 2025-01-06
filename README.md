@@ -17,7 +17,7 @@ Oi, sou o Marcus e aprendi a programar fazendo `curso técnico de informática` 
 
 ### Meu buddy
 
-Estou iniciando minha jornada no Inteli com meu buddy [Daniel Cunha](https://youtube.com/)
+Estou iniciando minha jornada no Inteli com meu buddy [Daniel Cunha](https://github.com/Daniel-inteli)
 
 <img align="right" height="180" src="https://pbs.twimg.com/media/GfqkyIPWEAE8oMB?format=jpg&name=medium"  />
 
