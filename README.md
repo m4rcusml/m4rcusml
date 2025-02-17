@@ -7,7 +7,7 @@ Oi, sou o Marcus e aprendi a programar fazendo `curso técnico de informática` 
 ### Sobre
 * Tenho 18 anos.
 * Sei fazer sites e apps complexos.
-* Estou cursando `Engenharia de Software` no Inteli.
+* Estou cursando `Sistemas de informação` no Inteli.
 * Gosto de jogar vôlei, minecraft e clash royale.
 
 <div align="center">
