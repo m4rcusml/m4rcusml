@@ -15,10 +15,6 @@ Oi, sou o Marcus e aprendi a programar fazendo `curso técnico de informática` 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=m4rcusml&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=false" height="150" alt="languages graph" />
 </div>
 
-### Meu buddy
-
-Estou iniciando minha jornada no Inteli com meu buddy [Daniel Cunha](https://github.com/Daniel-inteli)
-
 <img align="right" height="180" src="https://pbs.twimg.com/media/GfqkyIPWEAE8oMB?format=jpg&name=medium"  />
 
 ### Tecnologias
